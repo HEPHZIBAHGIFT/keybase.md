@@ -2,9 +2,9 @@
 
 I hereby claim:
 
-  * I am darkangeli on github.
-  * I am mranggar (https://keybase.io/mranggar) on keybase.
-  * I have a public key ASDUbDG1G2sgFelVshwBmWTiKbd4inJti7TOFaCOpEDjiAo
+  * I am hephzibahgift on github.
+  * I am hephzibahgift (https://keybase.io/hephzibahgift) on keybase.
+  * I have a public key ASBHva5dJsMxObAsstXhwYywLu8alWmNQUicnXB2_IYaYgo
 
 To claim this, I am signing this object:
 
@@ -12,22 +12,22 @@ To claim this, I am signing this object:
 {
   "body": {
     "key": {
-      "eldest_kid": "0120d46c31b51b6b2015e955b21c019964e229b7788a726d8bb4ce15a08ea440e3880a",
+      "eldest_kid": "012047bdae5d26c33139b02cb2d5e1c18cb02eef1a95698d41489c9d7076fc861a620a",
       "host": "keybase.io",
-      "kid": "0120d46c31b51b6b2015e955b21c019964e229b7788a726d8bb4ce15a08ea440e3880a",
-      "uid": "f798b0d5ba774a0e3143ba70c5b5b319",
-      "username": "mranggar"
+      "kid": "012047bdae5d26c33139b02cb2d5e1c18cb02eef1a95698d41489c9d7076fc861a620a",
+      "uid": "2a4ec41806b901ee6701f54e6c713e19",
+      "username": "hephzibahgift"
     },
     "merkle_root": {
-      "ctime": 1568182451,
-      "hash": "4ec8441fbb79b76b3b2d79f3f3478b95427e7d828156d6ae3dcefbf309baa51cb92aea0521624e8cc43bfaedfddd4f6cb75a289cb7cb9df10c9078c98ee33c5d",
-      "hash_meta": "2fc9b76212525b58eb3144cc4e12f04358e255fda697c0e37d514ed5ce4e991b",
-      "seqno": 6613596
+      "ctime": 1568231206,
+      "hash": "38467356da2eac047e4fc9b3835261ffe5892ea4bb9db65aea93d0916ef44b8177c11eb43c4b0226776f6841bb7aeda21e40995d257c0351a6f2088294fba558",
+      "hash_meta": "ac16f4eb9e214f7501a73301ad8d2bfbe436e90655c1df4eef580ae47fedde76",
+      "seqno": 6801887
     },
     "service": {
-      "entropy": "9XvbAEVZOpGbcBEiaAiULynH",
+      "entropy": "USqyrdOCRABArNMzmzqOzlEo",
       "name": "github",
-      "username": "darkangeli"
+      "username": "hephzibahgift"
     },
     "type": "web_service_binding",
     "version": 2
@@ -36,18 +36,18 @@ To claim this, I am signing this object:
     "name": "keybase.io go client",
     "version": "4.4.0"
   },
-  "ctime": 1568182459,
+  "ctime": 1568231232,
   "expire_in": 504576000,
-  "prev": "7555acc4f84486c8101feacd1e8b62d02ca2c833683bab3aa6300e5a9262cf62",
-  "seqno": 5,
+  "prev": "bdd35377b7be84b4e7046b64221aa844b8c9ae13635e74a25961bab3b11dc0b1",
+  "seqno": 4,
   "tag": "signature"
 }
 ```
 
-with the key [ASDUbDG1G2sgFelVshwBmWTiKbd4inJti7TOFaCOpEDjiAo](https://keybase.io/mranggar), yielding the signature:
+with the key [ASBHva5dJsMxObAsstXhwYywLu8alWmNQUicnXB2_IYaYgo](https://keybase.io/hephzibahgift), yielding the signature:
 
 ```
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg1GwxtRtrIBXpVbIcAZlk4im3eIpybYu0zhWgjqRA44gKp3BheWxvYWTESpcCBcQgdVWsxPhEhsgQH+rNHoti0CyiyDNoO6s6pjAOWpJiz2LEIDZxseW5OuJfEIlU7NuuyPKSOHkEQPsAT+ITngBAYDFyAgHCo3NpZ8RAyaB7lOqW4HkmeZj/hJB0/6bYGjEaNE++OL5drqVhAR0/ACHzklYHMs3K7m+zGUinWRnfVjgRzPlrZSyPwewYCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHJGR2uFYgsllQVLjYO0oMd3FxawhD724aX8CVvg3oo0o3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgR72uXSbDMTmwLLLV4cGMsC7vGpVpjUFInJ1wdvyGGmIKp3BheWxvYWTESpcCBMQgvdNTd7e+hLTnBGtkIhqoRLjJrhNjXnSiWWG6s7EdwLHEIHjKAKmMmd8w3a+BZv6Qh17A6fVXd7I7DQ9LEFq5lx70AgHCo3NpZ8RAv8gv43a7FGHq6QKiY9MJD/hcMOplpE0m/GEstInawb8PrQR/YwDX/DR7HAvB83QDiBbO2PpeNAge9Y56v0ByC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPK72X4z9GnlkQVrzqwkEqCzhjtKJQ1X5EcwP94Rv/CPo3RhZ80CAqd2ZXJzaW9uAQ==
 
 ```
 
@@ -55,7 +55,7 @@ And finally, I am proving ownership of the github account by posting this as a g
 
 ### My publicly-auditable identity:
 
-https://keybase.io/mranggar
+https://keybase.io/hephzibahgift
 
 ### From the command line:
 
@@ -63,5 +63,5 @@ Consider the [keybase command line program](https://keybase.io/download).
 
 ```bash
 # look me up
-keybase id mranggar
+keybase id hephzibahgift
 ```
